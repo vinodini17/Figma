@@ -30,11 +30,13 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
+
 Figma
 
-## CODE:
-
 ## OUTPUT:
+
+<img width="960" alt="image" src="https://github.com/vinodini17/Figma/assets/149347288/7c1d9838-90ba-4685-9713-5a3aedea1974">
+
 
 
 ## RESULT:
